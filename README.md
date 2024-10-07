@@ -1,5 +1,5 @@
 # analogous-board
-The Analogous Board is a replacement for the Apple Macintosh SE and SE/30 analog board that provides supporting circuitry for replacing the CRT with a VGA LCD.
+The Analogous Board is a replacement for the Apple Macintosh SE and SE/30 analog board that provides mounting points for the original power supply and supporting circuitry for replacing the CRT with a VGA LCD.
 
 It is designed to use <a href="https://github.com/guruthree/mac-se-video-converter">guruthree's mac-se-video-converter firmware for RP2040</a>.
 
